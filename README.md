@@ -1,5 +1,6 @@
 # BlogsApp-V2
 Development of a web application of blogs
+
 Nov 2019 – Present
 
 Project description:
